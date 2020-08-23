@@ -1,0 +1,1 @@
+http://localhost:8983/solr/tsv_data/select?fl=Duration_in_Career.*&q=*%3A*&wt=csv

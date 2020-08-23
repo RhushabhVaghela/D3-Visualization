@@ -1,0 +1,1 @@
+http://localhost:8983/solr/tsv_data/select?fl=Year.*%2Ccitations.*&q=*%3A*&wt=csv

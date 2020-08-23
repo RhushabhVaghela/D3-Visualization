@@ -1,0 +1,33 @@
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.box {
+    width: 50%;
+    position: absolute;
+    z-index: 99;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    text-align: center;
+}

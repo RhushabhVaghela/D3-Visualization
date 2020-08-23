@@ -1,0 +1,1 @@
+http://localhost:8983/solr/tsv_data/select?fl=world_rank.*%2CNo_in_lab.*&q=*%3A*&wt=csv

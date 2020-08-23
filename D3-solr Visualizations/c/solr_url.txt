@@ -1,0 +1,1 @@
+http://localhost:8983/solr/tsv_data/select?fl=Country.*%2CUniversity_name.*%2CPublication_Rate.*&q=*%3A*&wt=csv
