@@ -17,11 +17,10 @@ python tsvToJSON.py
 
 
 Building Solr Indexes for D3 visualizations:-
-*Please use the solr-8.5.1 directory provided, since it is configured to have sufficient memory to upload the dataset in the 
-solr server.
-
-If you want to manually increase the memory, please add the following line in <your-solr-directory>/bin/solr.in.cmd file:-
+*Please use the solr-8.5.1
+To increase the memory, please add the following line in <your-solr-directory>/bin/solr.in.cmd file:-
 set SOLR_JAVA_MEM=-Xms1g -Xmx1g  
+it is required to configure the memory to upload the dataset in the solr server.  
 
 For Windows:-
 Files needed in the directory:
