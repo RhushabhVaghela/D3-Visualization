@@ -1,6 +1,9 @@
 # D3-Visualization
 Created a D3 visualization (Data Insights) website for the purpose of exploring Fake Scientific People and Literature
 
+The Dataset is provided in the repository which is used for analysis of Fake scientific People and Literature.
+With the help of Visulization we can determine what are the causes of generating Fake scientific Literature.
+Please check out the screenshot folder to get the look of the website directly.
 
 Prerequisites:
 * System should be configured with Python 3
